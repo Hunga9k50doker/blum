@@ -1,0 +1,7 @@
+/node_modules
+.env
+package-lock.json
+proxy.txt
+data.txt
+mydata.txt
+token.json
